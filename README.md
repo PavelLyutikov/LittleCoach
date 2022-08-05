@@ -4,7 +4,7 @@ this is an application for learning English. It is written in Swift. The main fe
 
 ____
 
-![Group 203.png](/Users/pavellyutikov/Documents/GitHub/LittleCoach/screenshot/Group%20203.png)
+![](https://github.com/PavelLyutikov/LittleCoach/blob/main/screenshot/Group%20203.png?raw=true)
 
 ____
 
@@ -18,7 +18,7 @@ ____
 
 - Animated teachers accompany the user on all the paths, each section is responsible for its own teacher.
 
-- <img src="file:///Users/pavellyutikov/Documents/GitHub/LittleCoach/screenshot/Group%20202.png" title="" alt="Group 202.png" data-align="center">
+- <img src="https://github.com/PavelLyutikov/LittleCoach/blob/main/screenshot/Group%20202.png?raw=true" title="" alt="Group 202.png" data-align="center">
 
 
 
