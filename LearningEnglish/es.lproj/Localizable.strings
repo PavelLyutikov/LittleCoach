@@ -1,0 +1,155 @@
+/*
+PreloadMenu \ MenuViewController
+*/
+"Слов в запасе:" = "Vocabulario:";
+"  \n       " = "\n   ";
+/*
+NotificationLevelUnlockViewController
+*/
+
+"“Время“" = "“Tiempo“";
+
+"“Человек“" = "“Humano“";
+
+"“Еда“" = "“Comida“";
+
+"раздел открыт" = "nivel abierto";
+
+/*
+NotificationEnglishLevelUnlockViewController
+*/
+
+"Поздравляю!!! \n\n Ты повысил свой уровень \n\n Английского языка" = "Congratulations!! \n Has mejorado tu nivel \n de inglés";
+
+/*
+InfoBlackboardViewController
+*/
+"до 1500 слов" = "hasta 1500 palabras";
+"1500-2500 слов" = "1500-2500 palabras";
+"2500-3200 слов" = "2500-3200 palabras";
+"3200-3700 слов" = "3200-3700 palabras";
+"3700-4500 слов" = "3700-4500 palabras";
+"более 4500" = "más de 4500";
+
+"Breakthrough or beginner. \n\n Начальный уровень английского языка. Вы можете: \n\n   -понимать основные фразы и использовать повседневные выражения; \n\n   -самостоятельно представляться на английском и представить других; \n\n   -задавать элементарные вопросы на личные темы и отвечать на них; \n\n   -взаимодействовать на базовом уровне английского языка; \n\n   -понимать очень короткие надписи." = "Breakthrough or beginner. \n\n Nivel inicial de inglés. Usted puede: \n\n   -comprender las frases básicas y utilizar expresiones cotidianas; \n\n   -presentarse en inglés y presentar a otra persona; \n\n   -hacer preguntas básicas sobre temas personales y contestarlas; \n\n   -interactuar en un nivel básico de inglés; \n\n   -comprender inscripciones muy cortas.";
+
+"Way stage or elementary. \n\n Элементарный уровень английского языка. Вы можете: \n\n -понимать фразы, относящиеся к насущным аспектам жизни; \n\n -спросить дорогу и понять ответ; \n\n -рассказать о себе, выразить свои базовые потребности; \n\n -понять суть  видео на английском; \n\n -прочесть и понять элементарный текст на английском языке." = "Way stage or elementary. \n\n Nivel elemental de inglés. Usted puede: \n\n -entender frases sobre aspectos básicos de la vida; \n\n -pedir direcciones y entender la respuesta; \n\n -hablar de ti mismo, expresar tus necesidades básicas; \n\n -comprender la esencia del video en inglés; \n\n -leer y comprender un texto elemental en inglés.";
+
+"Threshold or intermediate. \n\n Cредний уровень английского языка. Вы можете: \n\n -правильно понимать суть высказываний на знакомые вам темы; \n\n -описать впечатления, мысли, эмоции, изложить свое мнение; \n\n -смотреть англоязычные фильмы в оригинале, иногда догадываясь о происходящем по изображению; \n\n -прочесть простейшую инструкцию, брошюру, письмо; \n\n -написать связное сообщение, на знакомую или интересную вам тематику." = "Threshold or intermediate. \n\n Nivel medio de Inglés. Usted puede: \n\n -comprender correctamente la esencia de las declaraciones sobre temas que le son familiares; \n\n -describir impresiones, pensamientos, emociones, expresar su opinión; \n\n -ver películas en inglés en el original, a veces adivinando lo que está sucediendo en la imagen; \n\n -escribir un mensaje de comunicación sobre un tema familiar o interesante.";
+
+"Vantage or upper intermediate. \n\n Cредне-продвинутый уровень английского языка. Вы можете: \n\n -понять суть сложного текста, поддержать беседу на английском языке; \n\n -свободно общаться на английском на отвлеченные темы; \n\n -изложить свой взгляд на проблему, указать на преимущества и недостатки различных вариантов ее решения; \n\n -смотреть большинство англоязычных телепрограмм; \n\n -написать связное сообщение на незнакомую вам тематику." = "Vantage or upper intermediate. \n\n Nivel medio-avanzado de inglés. Usted puede: \n\n -comprender la esencia de un texto complejo, mantener una conversación en inglés; \n\n -comunicarse con fluidez en inglés sobre temas abstractos; \n\n -exponga su punto de vista sobre el problema, señale las ventajas y desventajas de varias opciones para resolverlo; \n\n -ver la mayoría de los programas de televisión en inglés.";
+
+"Effective operational proficiency or advanced. \n\n Продвинутый уровень английского языка. Вы можете: \n\n -понять сложные и длинные тексты на самые разные темы; \n\n -изъясняться свободно, без затруднений с подбором слов и выражений; \n\n -понимать фильмы на английском, включая сленг и идиомы; \n\n -писать подробные тексты на сложные темы; \n\n -поддерживать эффективную переписку на английском." = "Effective operational proficiency or advanced. \n\n Nivel avanzado de inglés. Usted puede: \n\n -comprender textos largos y complejos sobre una variedad de temas; \n\n -hablar libremente, sin dificultad con la selección de palabras y expresiones; \n\n -comprender las películas en inglés, incluida la jerga y los modismos; \n\n -escribir textos detallados sobre temas complejos; \n\n -mantener la correspondencia en inglés.";
+
+"Mastery or proficiency. \n\n Владение в совершенстве. Находясь на самом высоком уровне, вы сможете: \n\n -понимать практически все услышанное и прочитанное; \n\n -обобщить информацию из различных устных и письменных источников, оформить доводы и мнения в виде связного текста; \n\n -говорить на любую тему без подготовки, точно и без затруднений выражая свою мысль." = "Mastery or proficiency. \n\n Nivel más alto de inglés. Usted puede: \n\n -comprender casi todo lo escuchado y leído; \n\n -resumir información de diversas fuentes orales y escritas, organizar argumentos y opiniones en forma de un texto coherente; \n\n -hablar sobre cualquier tema sin preparación, expresando sus pensamientos con precisión y sin dificultad.";
+
+/*
+BasicMenuViewController
+*/
+"Самое начало" = "Comienzo";
+"_______" = "____";
+
+"Местоимения" = "Pronombres";
+
+"Этикет" = "Etiqueta";
+
+"Вопросы" = "Cuestiones";
+
+"Цвета" = "Colores";
+
+"Геометрические \n\nФигуры" = "Figura \nGeométrica";
+
+/*
+TimeMenuViewController
+*/
+
+"Время и числа" = "Tiempo y números";
+
+"Числа" = "Números";
+
+"Единицы \n \nвремени" = "Unidades \nde tiempo";
+
+"Месяцы \n \nи сезоны" = "Meses \ny estaciones";
+
+"День" = "Día";
+
+"Интервалы времени" = "Intervalos de tiempo";
+
+"Интервалы \n \nвремени" = "Intervalos \nde tiempo";
+
+/*
+PersonMenuViewController
+*/
+
+"Человек" = "Humano";
+"____" = "___";
+
+"Общее" = "General";
+
+"Семья" = "Familia";
+
+"Тело" = "Cuerpo";
+
+"Чувства и \n \nэмоции" = "Sentimientos \ny emociones";
+
+"Внешность" = "Apariencia";
+
+/*
+FoodMenuViewController
+*/
+
+"Еда" = "Comida";
+"__" = "___";
+
+"Про еду и вкус" = "Sobre comida y sabor";
+
+"Про еду \n \nи вкус" = "Sobre comida \ny sabor";
+
+"Напитки" = "Bebidas";
+
+"Молочные \n \nпродукты" = "Productosё \nlácteos";
+
+"Овощи" = "Verduras";
+
+"Фрукты" = "Frutas";
+
+"Орехи и \n \nсухофрукты" = "Nueces y \nfrutas secas";
+
+"Орехи и \n \nCухофрукты" = "Nueces y \nfrutas secas";
+
+"Мясо, рыба и \n \nморепродукты" = "Carnes, pescados \ny mariscos";
+
+"Прочие \n \nпродукты" = "Otros \nproductos";
+
+"Сладости" = "Dulces";
+
+"Готовая еда" = "Comida preparada";
+
+
+/*
+ScoreModel
+*/
+
+"Конец!" = "Fin!";
+
+"Превосходно!" = "Perfecto!";
+
+"Хороший результат!" = "Buen resultado!";
+
+"Это не лучший результат." = "No es el mejor resultado.";
+
+"\n Вы ответили на " = "\n Respondiste ";
+
+" из " = " de ";
+
+" вопросов верно!" = " preguntas correctamente!";
+
+
+/*
+GameViewController
+*/
+
+"Повторить" = "Repetir";
+
+"Закончить" = "Terminar";
+

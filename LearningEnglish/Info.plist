@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>KgRedHands.ttf</string>
+		<string>MegiSans.ttf</string>
+		<string>LarkeNeueRegular.ttf</string>
+		<string>LarkeNeueBold.ttf</string>
+		<string>KgSummerStormSmooth.ttf</string>
+		<string>TexasSpring.ttf</string>
+		<string>HussarGothic.otf</string>
+		<string>BraveGatesPersonalUse.otf</string>
+		<string>ShorthaltThin.otf</string>
+		<string>Lorjuk.otf</string>
+		<string>Hodgepodgery.ttf</string>
+		<string>Cartoon1471Extended.ttf</string>
+		<string>firstFontTr.otf</string>
+		<string>appleberry.ttf</string>
+		<string>dsEraserCyr.ttf</string>
+		<string>lcChalk.ttf</string>
+		<string>pencilpeteFont.ttf</string>
+		<string>BacknotesRegular.otf</string>
+	</array>
+	<key>UIMainStoryboardFile~iphone</key>
+	<string>Main</string>
+</dict>
+</plist>
