@@ -18,7 +18,7 @@ ____
 
 - Animated teachers accompany the user on all the paths, each section is responsible for its own teacher.
 
-- <img src="https://github.com/PavelLyutikov/LittleCoach/blob/main/screenshot/Group%20202.png?raw=true" title="" alt="Group 202.png" data-align="center">
+ <img src="https://github.com/PavelLyutikov/LittleCoach/blob/main/screenshot/Group%20202.png?raw=true" title="" alt="Group 202.png" data-align="center">
 
 
 
